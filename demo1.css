@@ -1,0 +1,32 @@
+body {
+  margin: 0; }
+
+.wrap {
+  width: 40vw;
+  height: 40vw;
+  max-width: 100%;
+  margin: auto; }
+
+.square {
+  float: left;
+  width: 30%;
+  height: 30%;
+  margin: 2.5% 0 0 2.5%;
+  background: #fea500;
+  border-radius: 10%; }
+
+.btn {
+  display: block;
+  width: 38%;
+  margin: .5rem auto;
+  padding: 1rem;
+  border: 1px solid #fea500;
+  cursor: pointer;
+  background: none;
+  outline: none;
+  border-radius: 10px; }
+  .btn:hover {
+    background: #fea500;
+    color: #fff; }
+
+/*# sourceMappingURL=demo1.css.map */
